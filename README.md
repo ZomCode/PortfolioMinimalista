@@ -1,7 +1,8 @@
 # Maquetado de CV Minimalista para web y pdf
 
-Esquema del JSON de CV de [jsonresume.org](https://jsonresume.org/schema/).
-Basado en el diseño de [Bartosz Jarocki](https://github.com/BartoszJarocki/cv).
+_Esquema del JSON de CV de [jsonresume.org](https://jsonresume.org/schema/).
+_Basado en el diseño de [Bartosz Jarocki](https://github.com/BartoszJarocki/cv).
+_Reestrucutación de [Midudev](https://github.com/midudev/minimalist-portfolio-json).
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)

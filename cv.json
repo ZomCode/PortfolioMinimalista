@@ -5,8 +5,8 @@
       "image": "/Me.webp",
       "email": "kevinyt.kf@gmail.com",
       "phone": "(+52) 221-147-9884",
-      "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
+      "url": "https://zomcode.com",
+      "summary": "Descubrí mi pasión por el desarrollo web tras completar mi formación como Ingeniero en Ciberseguridad y Redes Inteligentes. Aunque inicialmente me desempeñé en soporte técnico, encontré un verdadero interés en el desarrollo web. Como autodidacta, estoy decidido a crecer y destacarme en este campo.",
       "location": {
         "address": "## ",
         "postalCode": "72225 ",
@@ -25,42 +25,64 @@
       },{
         "network": "LinkedIn",
         "username": "Kevin Aarón Flores Hernandez",
-        "url": "https://www.linkedin.com/in/kevin-zomcode/"
+        "url": "https://www.linkedin.com/in/kevin-aaron-flores-hernandez/"
       }]
     },
     "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
+      "name": "Starnet Contact Center",
+      "position": "Ingeniero en Sistemas",
+      "url": "https://www.starnet.com.mx/",
+      "startDate": "2022-07",
+      "endDate": "2023-11",
+      "summary": "Gestiono la instalación segura de software y sistemas operativos, así como el cableado estructurado para mantener una red confiable. Mi enfoque se orienta a la mejora continua de la automatización, abordando también la seguridad de la información y la colaboración interdepartamental para integrar sistemas de manera efectiva. En resumen, contribuyo al éxito de la empresa mediante soluciones tecnológicas y una gestión integral de la infraestructura informática.",
       "highlights": [
-        "Started the company"
+        "Primer trabajo profesional",
+        "Automatización de procesos"
+      ]
+    },{
+      "name": "Rajísimas",
+      "position": "Desarrollador Web",
+      "url": "https://www.rajisimas.com/",
+      "startDate": "2022-01-01",
+      "endDate": "2022-04",
+      "summary": "Creación de una página web estática con HTML, CSS y JavaScript, acompañada de un sistema de control de inventario. Este último se implementa mediante HTML, CSS y JavaScript, con la lógica del servidor gestionada por PHP y el framework Codeigniter. La combinación de estas tecnologías ofrece una plataforma dinámica y eficiente para la gestión integral del inventario.",
+      "highlights": [
+        "Prácticas profesionales",
+        "Desarrollo Web"
       ]
     }],
     "volunteer": [{
-      "organization": "Organization",
+      "organization": "Rajísimas",
       "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
+      "url": "https://www.rajisimas.com/",
+      "startDate": "2022-01",
+      "endDate": "2022-04",
+      "summary": "Creación de una página web estática con HTML, CSS y JavaScript, acompañada de un sistema de control de inventario. Este último se implementa mediante HTML, CSS y JavaScript, con la lógica del servidor gestionada por PHP y el framework Codeigniter. La combinación de estas tecnologías ofrece una plataforma dinámica y eficiente para la gestión integral del inventario.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Prácticas profesionales",
+        "Desarrollo Web"
       ]
     }],
     "education": [{
       "institution": "Univerdad Tecnológica de Puebla",
       "url": "https://www.utpuebla.edu.mx/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "9.0",
+      "area": "Técnologias de la Información Área Infraestructura de Redes Digitales",
+      "studyType": "Técnico Superior Universitario",
+      "startDate": "2018-09-03",
+      "endDate": "2020-08-28",
+      "score": "10.0",
       "courses": [
-        "DB1101 - Basic SQL"
+        "CCNA R&S: Introduction to Network | Carta de Merito | 2018-2019 "
       ]
+    },
+    {
+      "institution": "Univerdad Tecnológica de Puebla",
+      "url": "https://www.utpuebla.edu.mx/",
+      "area": "Redes Inteligentes y Ciberseguridad",
+      "studyType": "Licenciatura en Ingeniería",
+      "startDate": "2018-09-03",
+      "endDate": "2022-04-29",
+      "score": "10.0"
     }],
     "awards": [{
       "title": "Award",
@@ -69,10 +91,10 @@
       "summary": "There is no spoon."
     }],
     "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "Carta de Merito",
+      "date": "2018",
+      "issuer": "Cisco Academy",
+      "url": "https://www.netacad.com/es"
     }],
     "publications": [{
       "name": "Publication",
@@ -91,20 +113,41 @@
       },
       {
         "name": "CSS",
-        "level": "Master",
+        "level": "Intermedio",
         "keywords": [
           "Desarrollo Web", "Frontend", "Diseño Responsive"
         ]
       },
       {
         "name": "JavaScript",
-        "level": "Master",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Svelte",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Intermedio",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "Fullstack"
         ]
       },
       {
         "name": "Tailwind",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "Bootstrap",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
@@ -118,8 +161,15 @@
         ]
       },
       {
+        "name": "MongoDB",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
         "name": "Git",
-        "level": "Avanzado",
+        "level": "Intermedio",
         "keywords": [
           "Control de Versiones", "Colaboración", "Código Fuente"
         ]
@@ -151,15 +201,48 @@
       "reference": "Reference…"
     }],
     "projects": [{
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+      "name": "Rajísimas",
+      "startDate": "2023-09",
+      "endDate": "2023-011",
+      "description": "Realización de página web estatica para Rajísimas utilizando Svelte y Tailwind",
+      "isActive" : false,
+      "highlights": [
+        "HTML",
+        "CSS",
+        "JavaScrip",
+        "Svelte",
+        "Tailwind",
+        "TailwindCSS-Animated"
+      ],
+      "url": "https://www.rajisimas.com/"
+    },{
+      "name": "Oops",
+      "startDate": "2024-03",
+      "endDate": "2014-04",
+      "description": "Diseño y desarrollo de una página web estática para Oops!, centrada en servicios de estilismo, principalmente para mujeres. Incluye la integración de un sistema de gestión de citas para una mejor organización.",
       "isActive" : true,
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Started the company"
+        "React",
+        "React-Hook-Form",
+        "Tailwind",
+        "JavaScrip",
+        "MongoDB",
+        "Express",
+        "Jsonwebtoken",
+        "Zod"
       ],
-      "url": "https://project.com/"
+      "url": "#"
+    },{
+      "name": "Aire Acondicionado Hope",
+      "startDate": "Incoming..",
+      "endDate": "",
+      "description": "Diseño y desarrollo de una página web estática para Hope!, centrada en instalación de aire acondicionado.",
+      "isActive" : true,
+      "highlights": [
+        "Astro",
+        "Tailwind",
+        "JavaScrip"
+      ],
+      "url": "#"
     }]
   }

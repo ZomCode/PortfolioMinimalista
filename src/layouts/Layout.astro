@@ -12,9 +12,27 @@ const { title } = Astro.props;
 		<meta charset="UTF-8" />
 		<meta name="description" content="Astro description" />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.webp" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
+
+		<!-- Meta Tags para SEO -->
+		<meta name="keywords" content="portfolio, web, minimalista, portfolio web minimalista, portfolio minimalista, kevin, ing. kevin" />
+		<meta name="author" content="Kevin Aarón Flores Hernández" />
+		<meta name="robots" content="index, follow" />
+		<meta name="googlebot" content="index, follow" />
+		<meta name="bingbot" content="index, follow" />
+		
+		<!-- Etiquetas Open Graph para redes sociales -->
+		<meta property="og:title" content="PortFolio Kevin Aarón Flores Hernández" />
+		<meta property="og:description" content="Portafolio web de Ing. Kevin Aarón Flores Hernández" />
+		<meta property="og:image" content="/favicon.webp" />
+		<meta property="og:url" content="https://portfolio-kevin.com" />
+		<meta property="og:type" content="website" />
+		<meta property="og:locale" content="es_ES" />
+		
+		<!-- Etiqueta canonical -->
+		<link rel="canonical" href="https://portfolio-kevin.com" />
 	</head>
 	<body>
 		<slot />

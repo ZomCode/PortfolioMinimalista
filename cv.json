@@ -66,7 +66,7 @@
     "education": [{
       "institution": "Univerdad Tecnológica de Puebla",
       "url": "https://www.utpuebla.edu.mx/",
-      "area": "Técnologias de la Información Área Infraestructura de Redes Digitales",
+      "area": "Técnico Superior Universitario en Tecnologías de la Información Área Infraestructura de Redes Digitales",
       "studyType": "Técnico Superior Universitario",
       "startDate": "2018-09-03",
       "endDate": "2020-08-28",
@@ -78,7 +78,7 @@
     {
       "institution": "Univerdad Tecnológica de Puebla",
       "url": "https://www.utpuebla.edu.mx/",
-      "area": "Redes Inteligentes y Ciberseguridad",
+      "area": "Licencitura en Ingeniería en Redes Inteligentes y Ciberceguridad",
       "studyType": "Licenciatura en Ingeniería",
       "startDate": "2018-09-03",
       "endDate": "2022-04-29",
@@ -205,11 +205,11 @@
       "startDate": "2023-09",
       "endDate": "2023-011",
       "description": "Realización de página web estatica para Rajísimas utilizando Svelte y Tailwind",
-      "isActive" : false,
+      "isActive" : true,
       "highlights": [
         "HTML",
         "CSS",
-        "JavaScrip",
+        "JavaScript",
         "Svelte",
         "Tailwind",
         "TailwindCSS-Animated"
@@ -220,12 +220,12 @@
       "startDate": "2024-03",
       "endDate": "2014-04",
       "description": "Diseño y desarrollo de una página web estática para Oops!, centrada en servicios de estilismo, principalmente para mujeres. Incluye la integración de un sistema de gestión de citas para una mejor organización.",
-      "isActive" : true,
+      "isActive" : false,
       "highlights": [
         "React",
         "React-Hook-Form",
         "Tailwind",
-        "JavaScrip",
+        "JavaScript",
         "MongoDB",
         "Express",
         "Jsonwebtoken",
@@ -234,14 +234,29 @@
       "url": "#"
     },{
       "name": "Aire Acondicionado Hope",
-      "startDate": "Incoming..",
+      "startDate": "",
       "endDate": "",
       "description": "Diseño y desarrollo de una página web estática para Hope!, centrada en instalación de aire acondicionado.",
-      "isActive" : true,
+      "isActive" : false,
       "highlights": [
         "Astro",
         "Tailwind",
-        "JavaScrip"
+        "JavaScript"
+      ],
+      "url": "#"
+    },{
+      "name": "Bazares Virtuales",
+      "startDate": "",
+      "endDate": "",
+      "description": "Plataforma de comercio electrónico para vender una amplia gama de productos. El propietario gestiona la publicación y envío.",
+      "isActive" : false,
+      "highlights": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "CodeIgniter",
+        "DB MySQL"
       ],
       "url": "#"
     }]

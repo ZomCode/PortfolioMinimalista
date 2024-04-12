@@ -17,7 +17,7 @@ import { projects } from "@cv"
                                         {name}
                                     </a>
                                     {
-                                        isActive && <span>&bull;</span>
+                                        isActive && <span>&bull; <span class="active">Activo</span></span>
                                     }
                                 </h3>    
                                 <p>
@@ -47,6 +47,11 @@ import { projects } from "@cv"
             minmax(200px, 1fr));
         gap: 1rem;
         margin-inline: -16px;
+    }
+
+    span > span.active{
+        font-style: italic;
+        font-size: small;
     }
 
     article{

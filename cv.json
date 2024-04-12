@@ -34,7 +34,7 @@
       "url": "https://www.starnet.com.mx/",
       "startDate": "2022-07",
       "endDate": "2023-11",
-      "summary": "Gestiono la instalación segura de software y sistemas operativos, así como el cableado estructurado para mantener una red confiable. Mi enfoque se orienta a la mejora continua de la automatización, abordando también la seguridad de la información y la colaboración interdepartamental para integrar sistemas de manera efectiva. En resumen, contribuyo al éxito de la empresa mediante soluciones tecnológicas y una gestión integral de la infraestructura informática.",
+      "summary": "Atención a usuarios finales, facilitación de la comunicación entre diferentes departamentos y mejora de la eficiencia a través de la automatización de procesos utilizando scripts en Python. Estos scripts emplean diversas bibliotecas para leer archivos y optimizar la experiencia del usuario.",
       "highlights": [
         "Primer trabajo profesional",
         "Automatización de procesos"
@@ -45,7 +45,7 @@
       "url": "https://www.rajisimas.com/",
       "startDate": "2022-01-01",
       "endDate": "2022-04",
-      "summary": "Creación de una página web estática con HTML, CSS y JavaScript, acompañada de un sistema de control de inventario. Este último se implementa mediante HTML, CSS y JavaScript, con la lógica del servidor gestionada por PHP y el framework Codeigniter. La combinación de estas tecnologías ofrece una plataforma dinámica y eficiente para la gestión integral del inventario.",
+      "summary": "Desarrollo de una página web estática utilizando HTML, CSS y JavaScript, junto con un sistema de control de inventario. Este sistema utiliza las mismas tecnologías front-end y tiene su lógica de servidor manejada por PHP, el framework Codeigniter y una base de datos en MySQL.",
       "highlights": [
         "Prácticas profesionales",
         "Desarrollo Web"

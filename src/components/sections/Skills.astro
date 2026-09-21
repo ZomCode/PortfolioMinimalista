@@ -15,6 +15,8 @@ import Next from "@/icons/next.astro"
 import Svelte from "@/icons/svelte.astro"
 import MongoDB from "@/icons/mongodb.astro"
 import Bootstrap from "@/icons/bootstrap.astro"
+import AstroJS from "@/icons/astro.astro"
+import Codeigniter from "@/icons/codeigniter.astro"
 
 import { skills } from "@cv"
 
@@ -32,20 +34,22 @@ const SKILLS_ICONS: Record<string, any> = {
   Tailwind,
   Svelte,
   MongoDB,
-  Bootstrap
+  Bootstrap,
+  AstroJS,
+  Codeigniter
 }
 ---
 
 <Section title="Habilidades">
   <ul>
     {
-      skills.map(({ name }) => {
+      skills.map(({ name, level }) => {
         const iconName = name === "Next.js" ? "Next" : name
         const Icon = SKILLS_ICONS[iconName]
 
         return (
           <li>
-            {Icon && <Icon />} <span>{name}</span>
+            {Icon && <Icon />} <span>{name} - {level}</span>
           </li>
         )
       })

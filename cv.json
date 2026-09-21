@@ -1,7 +1,7 @@
 {
     "basics": {
       "name": "Kevin Aarón Flores Hernández",
-      "label": "Desarrollador Web con 1 año de experiencia",
+      "label": "Desarrollador Web con 4 año de experiencia",
       "image": "/Me.webp",
       "email": "kevinyt.kf@gmail.com",
       "phone": "(+52) 221-147-9884",
@@ -29,6 +29,16 @@
       }]
     },
     "work": [{
+      "name": "Secretaria de Agricultura y Desarrollo Rural",
+      "position": "Soporte Técnico Especializado",
+      "url": "",
+      "startDate": "2024-06-01",
+      "summary": "Profesional de TI con experiencia integral en soporte técnico, administración de redes y desarrollo de software. Destaca por el monitoreo y resolución de problemas de red mediante Wireshark y la gestión de equipos Cisco y FortiGate, así como por el mantenimiento preventivo y correctivo a equipos de usuarios finales. En el ámbito del desarrollo, cuenta con experiencia en proyectos gubernamentales utilizando el framework Symfony (trazabilidad ganadera en Puebla) y en la creación de aplicaciones web eficientes mediante el ecosistema de Google (Apps Script, Sheets, Drive) para la gestión ágil de datos y evidencias fotográficas.",
+      "highlights": [
+        "Soporte Técnico",
+        "Desarrollo Web"
+      ]
+    },{
       "name": "Starnet Contact Center",
       "position": "Ingeniero en Sistemas",
       "url": "https://www.starnet.com.mx/",
@@ -50,7 +60,8 @@
         "Prácticas profesionales",
         "Desarrollo Web"
       ]
-    }],
+    }
+    ],
     "volunteer": [{
       "organization": "Rajísimas",
       "position": "Volunteer",
@@ -106,14 +117,14 @@
     "skills": [
       {
         "name": "HTML",
-        "level": "Master",
+        "level": "Alto",
         "keywords": [
           "Desarrollo Web", "Frontend"
         ]
       },
       {
         "name": "CSS",
-        "level": "Intermedio",
+        "level": "Alto",
         "keywords": [
           "Desarrollo Web", "Frontend", "Diseño Responsive"
         ]
@@ -123,6 +134,13 @@
         "level": "Intermedio",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "AstroJS",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
         ]
       },
       {
@@ -141,23 +159,30 @@
       },
       {
         "name": "Tailwind",
-        "level": "Avanzado",
+        "level": "Alto",
         "keywords": [
           "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
         ]
       },
       {
         "name": "Bootstrap",
-        "level": "Avanzado",
+        "level": "Alto",
         "keywords": [
           "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
         ]
       },
       {
         "name": "MySQL",
-        "level": "Avanzado",
+        "level": "Alto",
         "keywords": [
           "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Codeigniter",
+        "level": "Alto",
+        "keywords": [
+          "MVC", "Libreria", "Backend"
         ]
       },
       {
@@ -169,14 +194,14 @@
       },
       {
         "name": "Git",
-        "level": "Intermedio",
+        "level": "Alto",
         "keywords": [
           "Control de Versiones", "Colaboración", "Código Fuente"
         ]
       },
       {
         "name": "GitHub",
-        "level": "Avanzado",
+        "level": "Alto",
         "keywords": [
           "Control de Versiones", "Colaboración", "Código Fuente", "Git"
         ]
